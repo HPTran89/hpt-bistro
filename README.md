@@ -1,3 +1,8 @@
+# Project based off JavaScript Mastery Tutorial (https://www.youtube.com/watch?v=4oV65GVVits)
+
+#Figma #ReactJS #CSS
+Build and Deploy a Fully Responsive Restaurant Website with Modern UI and UX in ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
